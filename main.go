@@ -13,7 +13,7 @@ import (
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 
-const BotToken = "7939631781:AAGDEzo1Ign_nVKGT3jyrNib4MRRr4oprG0"
+const BotToken = "7939631781:AAE5RHWADXsXAaRkljwPiyDSeDtMkSjjcP4"
 const YtDlpPath = "/app/yt-dlp" // Railway внутренняя директория
 
 const DownloadFolder = "downloads"
